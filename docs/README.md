@@ -20,7 +20,7 @@ layout:
 
 # Welcome to Devro
 
-Welcome to the official Grexbot Devro Documentation! Here you'll get an overview of what Grexbot Devro as to offer. Grexbot is a autonomous landscape robot made by Hexoraw.
+Welcome to the official Grexbot Devro Documentation! Here you'll get an overview of what Grexbot Devro as to offer. [Grexbot](https://grexbot.com) is a autonomous landscape robot made by [Hexoraw](https://hexoraw.com).
 
 You can find the advancement of the project in the [patch notes](broken-reference).
 

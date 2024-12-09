@@ -1,5 +1,4 @@
 # Grexbot Devro
 Repository for Grexbot codename Devro
-
-Website available at https://grexbot.com
-Available documentation at https://hexoraw.gitbook.io/grexbot-devro
+<br />Website available at https://grexbot.com
+<br />Documentation available at https://hexoraw.gitbook.io/grexbot-devro

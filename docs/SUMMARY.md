@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Devro](README.md)
+* [Welcome to Alto](README.md)
 
 ## Patch Notes
 

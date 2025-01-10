@@ -20,7 +20,13 @@ layout:
 
 # Welcome to Alto
 
-Welcome to the official Grexbot Alto Documentation! Here you'll get an overview of what Grexbot Alto as to offer. [Grexbot](https://grexbot.com) is a autonomous landscape robot made by [Hexoraw](https://hexoraw.com).
+Welcome to the official Grexbot Documentation! You are currently on the **Alto** documentation.
+
+{% hint style="info" %}
+You are on the latest version! Alto is the first version of Grexbot and is currently the only one available. Head to [version](https://grexbot.com/versions/) page to see more.
+{% endhint %}
+
+Here you can get an overview of what Grexbot Alto as to offer. [Grexbot](https://grexbot.com) is a autonomous landscape robot made by [Hexoraw](https://hexoraw.com).
 
 You can find the advancement of the project in the [patch notes](broken-reference).
 

@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/Grexbot Devro Concept [GBC-Vd1].png
-coverY: 186.541247759468
+cover: .gitbook/assets/Grexbot Banner.png
+coverY: -38.61333333333333
 layout:
   cover:
     visible: true

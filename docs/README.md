@@ -31,5 +31,5 @@ Here you can get an overview of what Grexbot Alto as to offer. [Grexbot](https:/
 You can find the advancement of the project in the [patch notes](broken-reference).
 
 {% hint style="warning" %}
-Grexbot Alto is a personnal/non-profit project developed by Auradomix. This documentation may be incompleted. This product is only made under surveillance until proved secure for others. This robot is equiped with double emergency cut-off.
+Grexbot Alto is a personnal/non-profit project developed by Auradomix. This documentation may be incompleted. This product is only made under surveillance until proved secure for others. This robot meets most safety standards and is equiped with redundant emergency cut-off.
 {% endhint %}

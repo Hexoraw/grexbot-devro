@@ -28,7 +28,7 @@ You are on the latest version! Alto is the first version of Grexbot and is curre
 
 Here you can get an overview of what Grexbot Alto as to offer. [Grexbot](https://grexbot.com) is a autonomous landscape robot made by [Hexoraw](https://hexoraw.com).
 
-You can find the advancement of the project in the [patch notes](https://github.com/Hexoraw/grexbot-devro/blob/master/docs/broken-reference/README.md).
+You can find the advancement of the project on the Github page.
 
 {% hint style="warning" %}
 Grexbot Alto is a personnal/non-profit project developed by Auradomix. This documentation may be incompleted. This product is only made under surveillance until proved secure for others. This robot meets most safety standards and is equiped with redundant emergency cut-off.

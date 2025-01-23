@@ -18,9 +18,9 @@ layout:
     visible: true
 ---
 
-# Welcome to Alto
+# Welcome to Grexbot
 
-Welcome to the official Grexbot Documentation! You are currently on the **Alto** documentation.
+Welcome to the official Grexbot Wiki!
 
 {% hint style="info" %}
 You are on the latest version! Alto is the first version of Grexbot and is currently the only one available.
@@ -31,5 +31,5 @@ Here you can get an overview of what Grexbot Alto as to offer. [Grexbot](https:/
 You can find the advancement of the project on the Github page.
 
 {% hint style="warning" %}
-Grexbot Alto is a personnal/non-profit project developed by Auradomix. This documentation may be incompleted. This product is only made under surveillance until proved secure for others. This robot meets most safety standards and is equiped with redundant emergency cut-off.
+Grexbot Alto is a personnal/non-profit project developed by Auradomix. This wiki may be incompleted. This project is only made under surveillance until proved secure for others. This robot meets most safety standards.
 {% endhint %}

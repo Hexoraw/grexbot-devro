@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Welcome to Alto](README.md)
+* [Welcome to Grexbot](README.md)
